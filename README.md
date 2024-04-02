@@ -42,7 +42,7 @@ pall This is the end of our program. Monty is awesome!$
 ```
 
 ## Compilation
-**Noter:**
+**Note:**
 
 - The source code files for the interpreter are supported basically by Ubuntu 20.04 LTS.
 
